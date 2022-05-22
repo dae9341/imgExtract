@@ -1,0 +1,26 @@
+{
+  "name": "imgExtract",
+  "version": "1.0.0",
+  "description": "원하는 페이지의 이미지url을 추출한다",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dae9341/imgExtract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dae9341/imgExtract/issues"
+  },
+  "homepage": "https://github.com/dae9341/imgExtract#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.22.2"
+  },
+  "dependencies": {
+    "playwright": "^1.22.2"
+  }
+}
